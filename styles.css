@@ -1,0 +1,93 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1{
+    
+    margin-top: 50px;
+    margin-bottom: 20px;
+    font-size: 40px;
+    text-align: center;
+    
+}
+
+#man-text{
+    padding-bottom: 20px;
+}
+
+main{
+    background-color: #f2f2f2;
+    margin-top: 40px;
+    margin: 10px;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Helvetica Neue', Arial, sans-serif;
+    padding-bottom: 40px;
+
+}
+#img-div{
+    background-color: white;
+    padding: 100px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    
+   
+}
+#image{
+    
+    max-width: 100%;
+    display: block;
+    height: auto;
+    border: 1px solid grey;
+
+}
+
+img{
+    display: block;
+}
+#img-caption{
+    margin-top: 10px;
+    text-align: center;
+}
+
+#life-text{
+    margin-left: 80px;
+    padding: 50px 0 50px 0;
+}
+
+#tribute-info{
+    /* width: 50%; */
+    padding-top: 50px;
+    padding: 10px;
+    max-width: 550px;
+    
+}
+
+li{
+    padding-bottom: 20px;
+    line-height: 1.5;
+}
+    
+#achievement{
+    margin-top: 40px;
+    line-height: 1.5;
+    margin-bottom: 30px;
+    
+    
+}
+#minister{
+    padding-bottom: 30px;
+}
+#tribute-link{
+    text-decoration: none;
+    color: brown;
+}
+
+
+
+
